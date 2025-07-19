@@ -1,2 +1,1 @@
-# mtc-test-repo
-test repository
+# This is a readme file for the repository created with terraform
